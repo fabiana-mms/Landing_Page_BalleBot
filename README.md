@@ -9,6 +9,6 @@ Praticar HTML e CSS.
 
 ## :computer: Tecnologias 
 
-* [HTML](#html)
-* [CSS](#css)
-* [Figma](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=1%3A77)
+* HTML
+* CSS
+* [Figma](https://www.figma.com/file/myqP66iQwzjwjrIAJyyrip/BalleBot?node-id=0%3A1)
